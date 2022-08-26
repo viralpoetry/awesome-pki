@@ -19,6 +19,7 @@ Root programs keep the list up-to-date and work together on the process standard
 [Everything you Never Wanted to Know about PKI but were Forced to Find Out (PDF)](https://www.cs.auckland.ac.nz/~pgut001/pubs/pkitutorial.pdf) - by Peter Gutmann  
 [PKI: It’s Not Dead,Just Resting (PDF)](https://people.cs.vt.edu/~kafura/cs6204/Readings/Authentication/PKINotDead.pdf) - Peter Gutmann  
 [X.509 Style Guide](https://www.cs.auckland.ac.nz/~pgut001/pubs/x509guide.txt) - by Peter Gutmann  
+[SSL/TLS and PKI History](https://www.feistyduck.com/ssl-tls-and-pki-history/) - Feisty Duck  
 [How to build your own public key infrastructure](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/) - The Cloudflare Blog  
 [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki/) - Smallstep Labs blog  
 [Path Building vs Path Verifying: The Chain of Pain](https://medium.com/@sleevi_/path-building-vs-path-verifying-the-chain-of-pain-9fbab861d7d6)  
@@ -67,11 +68,11 @@ Root programs keep the list up-to-date and work together on the process standard
 
 [PKI considered harmful](https://iang.org/ssl/pki_considered_harmful.html)  
 
-## Video  
+## Audio / Video  
 
 Hackable Security Modules: reversing and exploiting a FIPS 140-2 lvl3 HSM firmware - [video](https://www.youtube.com/watch?v=X8xu_I9kn18), [PDF](https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-reversinghsms2.pdf)  
-PKI Bootcamp by Paul Turner - [Playlist](https://www.youtube.com/playlist?list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv)
-
+PKI Bootcamp by Paul Turner - [Playlist](https://www.youtube.com/playlist?list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv)  
+How to be a Certificate Authority, feat. Ryan Sleevi - [Security. Cryptography. Whatever. podcast](https://securitycryptographywhatever.buzzsprout.com/1822302/9146390-how-to-be-a-certificate-authority-feat-ryan-sleevi)  
 
 ## Open-Source Certificate Authority Software  
 
@@ -85,3 +86,5 @@ PKI Bootcamp by Paul Turner - [Playlist](https://www.youtube.com/playlist?list=P
 | [CFSSL](https://github.com/cloudflare/cfssl) | no | no | PKI toolkit with an API |
 | [easy-rsa](https://github.com/OpenVPN/easy-rsa) | no | no | easy-rsa - Simple shell based CA utility |
 | [OpenSSL Certificate Authority](https://jamielinux.com/docs/openssl-certificate-authority/) | yes | no | shell based CA leveraging OpenSSL |
+| [XCA](https://www.hohnstaedt.de/xca/) | yes | no | Certificate authority with a comprehensive GUI |
+
