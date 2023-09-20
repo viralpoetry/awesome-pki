@@ -29,7 +29,7 @@ Root programs keep the list up-to-date and work together on the process standard
 [Checklist on building an Offline Root & Intermediate Certificate Authority (CA)](https://security.stackexchange.com/questions/15532/checklist-on-building-an-offline-root-intermediate-certificate-authority-ca) - Stack Overflow  
 [Certificate Authority with a YubiKey](https://developers.yubico.com/PIV/Guides/Certificate_authority.html)  
 [Get started with the Nitrokey HSM or SmartCard-HSM](https://raymii.org/s/articles/Get_Started_With_The_Nitrokey_HSM.html)  
-
+[PKI maturity model](https://pkic.org/pkimm/model/) - by PKI Consortium  
 
 ## Hardware Secure Modules (HSM) & Key management  
 
