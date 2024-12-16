@@ -74,6 +74,7 @@ Root programs keep the list up-to-date and work together on the process standard
 Hackable Security Modules: reversing and exploiting a FIPS 140-2 lvl3 HSM firmware - [video](https://www.youtube.com/watch?v=X8xu_I9kn18), [PDF](https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-reversinghsms2.pdf)  
 PKI Bootcamp by Paul Turner - [Playlist](https://www.youtube.com/playlist?list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv)  
 How to be a Certificate Authority, feat. Ryan Sleevi - [Security. Cryptography. Whatever. podcast](https://securitycryptographywhatever.buzzsprout.com/1822302/9146390-how-to-be-a-certificate-authority-feat-ryan-sleevi)  
+Fundamental X.509 PKI in Theory and OpenSSL (Cyrill Gössi) - [Playlist](https://www.youtube.com/playlist?list=PLWjMI9CAmVU4AHEMlq_SUuIAgeCDOdrvO)
 
 ## Open-Source Certificate Authority Software  
 
